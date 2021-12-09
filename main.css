@@ -1,0 +1,15 @@
+body {
+    background-color: #cccccc;
+}
+
+/*Jasurbek Yusufov*/
+button {
+    outline: none !important;
+    background: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+input {
+    outline: none;
+    color: white;
+}
